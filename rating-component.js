@@ -12,7 +12,7 @@ class RatingComponent extends LitElement {
         return {
             rate: {
                 type: Number,
-                value: 2
+                value: 0
             }
         };
     }
