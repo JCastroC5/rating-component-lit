@@ -1,0 +1,16 @@
+{
+  "name": "rating",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@polymer/iron-icon": "github:PolymerElements/iron-icon",
+    "@polymer/iron-icons": "github:PolymerElements/iron-icons",
+    "lit-element": "github:Polymer/lit-element"
+  }
+}
