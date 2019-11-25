@@ -6,13 +6,13 @@ import style from './rating-component-styles';
 class RatingComponent extends LitElement {
     constructor() {
         super();
+        this.rate = 0;
     }
 
     static get properties() {
         return {
             rate: {
-                type: Number,
-                value: 0
+                type: Number
             }
         };
     }
